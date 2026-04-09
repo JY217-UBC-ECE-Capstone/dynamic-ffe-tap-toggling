@@ -1,0 +1,17 @@
+/slprj
+*.slxc
+*.autosave
+*.asv
+*.csv
+
+resources/project/**/User/
+*.autosave
+
+sccprj/
+
+*.slxc
+*.mex*
+codegen/
+
+*.slxc
+simulationcache/
